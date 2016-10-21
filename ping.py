@@ -9,10 +9,7 @@
     @Description:
 
 time ping www.1.com -c 5
-real，就是整个运行这个进程从一开始到结束的整个时间（时钟墙）
-user，是指在运行这个进程中花在用户模式下的时间，即不包括内核的运行时间
-sys,是指在运行这个进程，花在内核调用的时间，而不是代码库调用
-user+sys=这个进程花的时间
+5是发送5个包
 """
 import re
 import os
