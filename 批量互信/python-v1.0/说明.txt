@@ -1,0 +1,6 @@
+host list1是第一次互信的文件
+host list2是新增加时写入的文件
+两文件格式 ip +空格 +user +空格+password
+其他的都不要写
+
+执行：python trust.py
