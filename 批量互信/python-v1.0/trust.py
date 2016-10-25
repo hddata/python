@@ -5,7 +5,6 @@
     @FileName：   trust.py-v1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/13 9:55
-    @Email:       cnshi@travelsky.com
     @Description:
     批量主机互信
     hostlist1是第一次互信的文件，hostlist2是新加的时候的文件
